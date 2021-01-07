@@ -1,0 +1,19 @@
+body{
+    color:#000000!important;
+}
+agm-map{
+    height: 600px;
+}
+
+.textoPop p{
+    color: black!important;
+}
+
+.agm-info-window-content{
+    background-color: gray!important;
+    color: #000000!important;
+}
+
+/* .gm-style-iw .gm-style-iw-c{
+    background-color: black;
+} */
